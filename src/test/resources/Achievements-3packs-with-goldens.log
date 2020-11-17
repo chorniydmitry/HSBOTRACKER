@@ -1,0 +1,48 @@
+﻿D 19:47:41.2531634 Validating achieve: 67
+D 19:47:41.2581682 NetCache.OnProfileNotices(): sending notices to DialogManager::OnNewNotices
+D 19:47:41.2611716 NetCache.OnProfileNotices(): sending notices to AdventureProgressMgr::OnNewNotices
+D 19:47:41.2621688 NetCache.OnProfileNotices(): sending notices to AchieveManager::OnNewNotices
+D 19:47:41.2621688 NetCache.OnProfileNotices(): sending notices to GenericRewardChestNoticeManager::OnNewNotices
+D 19:47:41.2631697 NetCache.OnProfileNotices(): sending notices to AccountLicenseMgr::OnNewNotices
+D 19:47:41.2641714 NetCache.OnProfileNotices(): sending notices to FixedRewardsMgr::OnNewNotices
+D 19:47:41.2701762 NetCache.OnProfileNotices(): sending notices to PopupDisplayManager::OnNewNotices
+D 19:47:41.2701762 NetCache.OnProfileNotices(): sending notices to StoreManager::OnNewNotices
+D 19:47:41.2711770 NetCache.OnProfileNotices(): sending notices to GeneralStorePacksPane::OnNewNotices
+D 19:47:41.2721763 NetCache.OnProfileNotices(): sending notices to DialogManager::OnNewNotices
+D 19:47:41.2721763 NetCache.OnProfileNotices(): sending notices to AdventureProgressMgr::OnNewNotices
+D 19:47:41.2721763 NetCache.OnProfileNotices(): sending notices to AchieveManager::OnNewNotices
+D 19:47:41.2721763 NetCache.OnProfileNotices(): sending notices to GenericRewardChestNoticeManager::OnNewNotices
+D 19:47:41.2721763 NetCache.OnProfileNotices(): sending notices to AccountLicenseMgr::OnNewNotices
+D 19:47:41.2721763 NetCache.OnProfileNotices(): sending notices to FixedRewardsMgr::OnNewNotices
+D 19:47:41.2721763 NetCache.OnProfileNotices(): sending notices to PopupDisplayManager::OnNewNotices
+D 19:47:41.2721763 NetCache.OnProfileNotices(): sending notices to StoreManager::OnNewNotices
+D 19:47:41.2721763 NetCache.OnProfileNotices(): sending notices to GeneralStorePacksPane::OnNewNotices
+D 19:47:47.1110479 Validating achieve: 60
+D 19:47:53.5913438 PopupDisplayManager: Calling AllAchievesShownListeners callbacks
+D 19:49:39.5732575 NotifyOfCardGained: [name=Сила кристаллов cardId=DAL_350 type=SPELL] NORMAL 3
+D 19:49:39.5742588 NotifyOfCardGained: [name=Торговка зельями cardId=DAL_544 type=MINION] NORMAL 3
+D 19:49:39.5742588 NotifyOfCardGained: [name=Блестянка cardId=DAL_587 type=MINION] NORMAL 3
+D 19:49:39.5742588 NotifyOfCardGained: [name=Отважная трактирщица cardId=DAL_560 type=MINION] NORMAL 1
+D 19:49:39.5742588 NotifyOfCardGained: [name=Омега-уничтожитель cardId=DAL_770 type=MINION] NORMAL 2
+D 19:49:56.7096179 NotifyOfCardGained: [name=Гордый защитник cardId=DAL_551 type=MINION] NORMAL 3
+D 19:49:56.7096179 NotifyOfCardGained: [name=Бронзовый вестник cardId=DAL_146 type=MINION] NORMAL 3
+D 19:49:56.7096179 NotifyOfCardGained: [name=Неистовый ураган cardId=DAL_742 type=MINION] NORMAL 1
+D 19:49:56.7116192 NotifyOfCardGained: [name=Вендетта cardId=DAL_716 type=SPELL] NORMAL 3
+D 19:49:56.7116192 NotifyOfCardGained: [name=Бронзовый вестник cardId=DAL_146 type=MINION] NORMAL 4
+D 19:50:26.6985020 NotifyOfCardGained: [name=Торговка скакунами cardId=DAL_774 type=MINION] NORMAL 2
+D 19:50:26.6985020 NotifyOfCardGained: [name=Безликий яростень cardId=DAL_744 type=MINION] NORMAL 4
+D 19:50:26.6985020 NotifyOfCardGained: [name=Убедительный лазутчик cardId=DAL_039 type=MINION] GOLDEN 1
+D 19:50:26.6985020 NotifyOfCardGained: [name=Шпионка Похитителей Солнца cardId=DAL_086 type=MINION] NORMAL 3
+D 19:50:26.6985020 NotifyOfCardGained: [name=Злая металлолайка cardId=DAL_759 type=MINION] GOLDEN 1
+D 06:57:04.6718711 NotifyOfCardGained: [name=Рецидивист cardId=DAL_749 type=MINION] NORMAL 1
+D 06:57:04.6728727 NotifyOfCardGained: [name=Мутирование cardId=DAL_071 type=SPELL] NORMAL 2
+D 06:57:04.6728727 NotifyOfCardGained: [name=Сила кристаллов cardId=DAL_350 type=SPELL] NORMAL 2
+D 06:57:04.6728727 NotifyOfCardGained: [name=Безликий яростень cardId=DAL_744 type=MINION] NORMAL 3
+D 06:57:04.6728727 NotifyOfCardGained: [name=Лягушка-пострелушка cardId=DAL_182 type=MINION] NORMAL 2
+D 06:57:57.8981808 PopupDisplayManager: adding 0 rewards to load total=0
+D 06:58:07.8007520 NotifyOfCardGained: [name=Рецидивист cardId=DAL_749 type=MINION] NORMAL 2
+D 06:58:07.8007520 NotifyOfCardGained: [name=Негодяй ЗЛА cardId=DAL_415 type=MINION] NORMAL 3
+D 06:58:07.8007520 NotifyOfCardGained: [name=Запретные слова cardId=DAL_723 type=SPELL] NORMAL 1
+D 06:58:07.8007520 NotifyOfCardGained: [name=Эксцентричный писарь cardId=DAL_566 type=MINION] NORMAL 2
+D 06:58:07.8007520 NotifyOfCardGained: [name=Желудейница cardId=DAL_354 type=MINION] NORMAL 3
+

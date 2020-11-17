@@ -1,0 +1,380 @@
+D 16:41:11.7007585 Validating achieve: 67
+D 16:41:11.7107659 NetCache.OnProfileNotices(): sending notices to AdventureProgressMgr::OnNewNotices
+D 16:41:11.7117659 NetCache.OnProfileNotices(): sending notices to AchieveManager::OnNewNotices
+D 16:41:11.7117659 NetCache.OnProfileNotices(): sending notices to GenericRewardChestNoticeManager::OnNewNotices
+D 16:41:11.7127660 NetCache.OnProfileNotices(): sending notices to AccountLicenseMgr::OnNewNotices
+D 16:41:11.7127660 NetCache.OnProfileNotices(): sending notices to FixedRewardsMgr::OnNewNotices
+D 16:41:11.7187700 NetCache.OnProfileNotices(): sending notices to PopupDisplayManager::OnNewNotices
+D 16:41:11.7187700 NetCache.OnProfileNotices(): sending notices to StoreManager::OnNewNotices
+D 16:41:11.7197704 NetCache.OnProfileNotices(): sending notices to GeneralStorePacksPane::OnNewNotices
+D 16:41:11.7207713 NetCache.OnProfileNotices(): sending notices to AdventureProgressMgr::OnNewNotices
+D 16:41:11.7207713 NetCache.OnProfileNotices(): sending notices to AchieveManager::OnNewNotices
+D 16:41:11.7207713 NetCache.OnProfileNotices(): sending notices to GenericRewardChestNoticeManager::OnNewNotices
+D 16:41:11.7207713 NetCache.OnProfileNotices(): sending notices to AccountLicenseMgr::OnNewNotices
+D 16:41:11.7207713 NetCache.OnProfileNotices(): sending notices to FixedRewardsMgr::OnNewNotices
+D 16:41:11.7207713 NetCache.OnProfileNotices(): sending notices to PopupDisplayManager::OnNewNotices
+D 16:41:11.7207713 NetCache.OnProfileNotices(): sending notices to StoreManager::OnNewNotices
+D 16:41:11.7207713 NetCache.OnProfileNotices(): sending notices to GeneralStorePacksPane::OnNewNotices
+D 16:41:13.6230299 OnAchieveNotification PlayerID=58682497 ID=2500 Complete=False New=True Remove=False Amount=0
+D 16:41:13.6230299 OnAchievementNotification: Achievement=[Achievement: ID=2500 Type=DAILY Name='Паладин, друид и охотник' MaxProgress=3 Progress=0 AckProgress=-1 IsActive=True DateGiven=132308268730000000 DateCompleted=132278114730000000 Description='Сыграйте 3 матча за паладина, друида или охотника.' Trigger=FINISH CanAck=True]
+D 16:41:13.6320373 PopupDisplayManager: adding 0 rewards to load total=0
+D 16:41:13.6620584 OnAchieveNotification PlayerID=58682497 ID=2770 Complete=False New=True Remove=False Amount=0
+D 16:41:13.6620584 OnAchievementNotification: Achievement=[Achievement: ID=2770 Type=LOGIN_AND_CHAIN_ACTIVATED Name='Добро пожаловать в Запределье!' MaxProgress=25 Progress=0 AckProgress=-1 IsActive=True DateGiven=132308268730000000 DateCompleted=0 Description='Разыграйте 25 карт в режиме игры.' Trigger=PLAY_CARD CanAck=False]
+D 16:41:13.6620584 OnAchieveNotification PlayerID=58682497 ID=2542 Complete=False New=False Remove=False Amount=1
+D 16:41:13.6620584 OnAchievementNotification: Achievement=[Achievement: ID=2542 Type=HIDDEN Name='Явление Сатроварра' MaxProgress=1 Progress=305 AckProgress=1 IsActive=False DateGiven=132174712660000000 DateCompleted=132174712660000000 Description='Добавьте его в колоду — ведь он всегда побеждает!' Trigger=LOGIN CanAck=True]
+D 16:41:13.6620584 PopupDisplayManager: adding 0 rewards to load total=0
+D 16:41:17.8751249 Validating achieve: 60
+D 16:41:32.2089003 PopupDisplayManager: Calling AllAchievesShownListeners callbacks
+D 16:42:17.9910281 AckAchieveProgress: Achieve=2500 Progress=0
+D 16:46:27.9124690 NotifyOfCardGained: [name=Гнев карателя cardId=EX1_384 type=SPELL] NORMAL 2
+D 16:46:27.9524971 NotifyOfCardGained: [name=Морозная ловушка cardId=EX1_611 type=SPELL] NORMAL 3
+D 16:46:27.9815137 NotifyOfCardGained: [name=Главарь Братства cardId=EX1_131 type=MINION] NORMAL 3
+D 16:46:28.0155370 NotifyOfCardGained: [name=Стенолом cardId=EX1_185 type=MINION] NORMAL 2
+D 16:46:28.0685723 NotifyOfCardGained: [name=Порождение Света cardId=EX1_335 type=MINION] NORMAL 3
+D 16:47:12.8892331 NotifyOfCardGained: [name=Ржавоциклистка cardId=BT_720 type=MINION] NORMAL 1
+D 16:47:12.8902323 NotifyOfCardGained: [name=Призрачное зрение cardId=BT_491 type=SPELL] NORMAL 1
+D 16:47:12.8902323 NotifyOfCardGained: [name=Болотное порождение cardId=BT_115 type=MINION] NORMAL 1
+D 16:47:12.8902323 NotifyOfCardGained: [name=Ткачиха мороза cardId=BT_714 type=MINION] NORMAL 1
+D 16:47:12.8912340 NotifyOfCardGained: [name=Манускрипт надежды cardId=BT_024 type=SPELL] NORMAL 1
+D 16:47:36.9841776 NotifyOfCardGained: [name=Костеглод-буян cardId=BT_715 type=MINION] NORMAL 1
+D 16:47:36.9841776 NotifyOfCardGained: [name=Подозрительный скиталец cardId=BT_728 type=MINION] NORMAL 1
+D 16:47:36.9841776 NotifyOfCardGained: [name=Колосс со свалки cardId=BT_155 type=MINION] NORMAL 1
+D 16:47:36.9841776 NotifyOfCardGained: [name=Шиварра-мародер cardId=BT_732 type=MINION] NORMAL 1
+D 16:47:36.9851764 NotifyOfCardGained: [name=Охотничья уловка cardId=BT_213 type=SPELL] NORMAL 1
+D 16:47:59.0017465 NotifyOfCardGained: [name=Пленный сатир cardId=BT_127 type=MINION] NORMAL 1
+D 16:47:59.0027474 NotifyOfCardGained: [name=Пеплоуст-убийца cardId=BT_702 type=MINION] NORMAL 1
+D 16:47:59.0037512 NotifyOfCardGained: [name=Зловепрь cardId=BT_202 type=MINION] NORMAL 1
+D 16:47:59.0047483 NotifyOfCardGained: [name=Скрытень из глубин cardId=BT_230 type=MINION] NORMAL 1
+D 16:47:59.0057492 NotifyOfCardGained: [name=Щит и меч cardId=BT_233 type=SPELL] NORMAL 1
+D 16:48:43.7273434 NotifyOfCardGained: [name=Пленный сатир cardId=BT_127 type=MINION] NORMAL 2
+D 16:48:43.7293472 NotifyOfCardGained: [name=Портал ветра Пустоты cardId=BT_003 type=SPELL] NORMAL 1
+D 16:48:43.7303468 NotifyOfCardGained: [name=Пленный хламобес cardId=BT_305 type=MINION] NORMAL 1
+D 16:48:43.7313457 NotifyOfCardGained: [name=Алдор-служительница cardId=BT_020 type=MINION] NORMAL 1
+D 16:48:43.7313457 NotifyOfCardGained: [name=Подозрительный скиталец cardId=BT_728 type=MINION] NORMAL 2
+D 16:49:00.1757965 NotifyOfCardGained: [name=Буйство природы cardId=BT_130 type=SPELL] NORMAL 1
+D 16:49:00.1767978 NotifyOfCardGained: [name=Тотемное отражение cardId=BT_113 type=SPELL] NORMAL 1
+D 16:49:00.1767978 NotifyOfCardGained: [name=Обжигающий жар cardId=BT_514 type=SPELL] NORMAL 1
+D 16:49:00.1777970 NotifyOfCardGained: [name=Громила Гуртогга cardId=BT_138 type=MINION] NORMAL 1
+D 16:49:00.1777970 NotifyOfCardGained: [name=Продавец эфира cardId=BT_724 type=MINION] NORMAL 1
+D 16:49:17.2540969 NotifyOfCardGained: [name=Ржавый адепт cardId=BT_008 type=MINION] NORMAL 1
+D 16:49:17.2540969 NotifyOfCardGained: [name=Поток cardId=BT_110 type=SPELL] NORMAL 1
+D 16:49:17.2561044 NotifyOfCardGained: [name=Буйство природы cardId=BT_130 type=SPELL] NORMAL 2
+D 16:49:17.2570999 NotifyOfCardGained: [name=Алдор-служительница cardId=BT_020 type=MINION] NORMAL 2
+D 16:49:17.2581004 NotifyOfCardGained: [name=Пленный наблюдатель cardId=BT_004 type=MINION] NORMAL 1
+D 16:49:34.6235960 NotifyOfCardGained: [name=Сбежавший стражник жути cardId=BT_159 type=MINION] NORMAL 1
+D 16:49:34.6245932 NotifyOfCardGained: [name=Мок'наталская львица cardId=BT_212 type=MINION] NORMAL 1
+D 16:49:34.6255932 NotifyOfCardGained: [name=Странница Пустоты cardId=BT_321 type=MINION] NORMAL 1
+D 16:49:34.6255932 NotifyOfCardGained: [name=Продавец щитов cardId=BT_722 type=MINION] NORMAL 1
+D 16:49:34.6265957 NotifyOfCardGained: [name=Навигатор Плавников Скверны cardId=BT_010 type=MINION] NORMAL 1
+D 16:49:34.6486095 Validating achieve: 60
+D 16:49:55.9256884 NotifyOfCardGained: [name=Болотный луч cardId=BT_134 type=SPELL] NORMAL 1
+D 16:49:55.9266889 NotifyOfCardGained: [name=Навигатор Плавников Скверны cardId=BT_010 type=MINION] NORMAL 2
+D 16:49:55.9386989 NotifyOfCardGained: [name=Болотное порождение cardId=BT_115 type=MINION] NORMAL 2
+D 16:49:55.9396997 NotifyOfCardGained: [name=Внезапный удар cardId=BT_707 type=SPELL] NORMAL 1
+D 16:49:55.9396997 NotifyOfCardGained: [name=Ловчая Драконьей Пасти cardId=BT_726 type=MINION] NORMAL 1
+D 16:49:55.9407043 Validating achieve: 60
+D 16:50:11.7831806 NotifyOfCardGained: [name=Удочка Темносвета cardId=BT_018 type=WEAPON] NORMAL 1
+D 16:50:11.7841942 NotifyOfCardGained: [name=Грязные приемы cardId=BT_709 type=SPELL] NORMAL 1
+D 16:50:11.7851835 NotifyOfCardGained: [name=Железная кора cardId=BT_132 type=SPELL] NORMAL 1
+D 16:50:11.7851835 NotifyOfCardGained: [name=Манускрипт справедливости cardId=BT_011 type=SPELL] NORMAL 1
+D 16:50:11.7861836 NotifyOfCardGained: [name=Охотничья уловка cardId=BT_213 type=SPELL] NORMAL 2
+D 16:50:32.6409864 NotifyOfCardGained: [name=Призрачное зрение cardId=BT_491 type=SPELL] NORMAL 2
+D 16:50:32.6419852 NotifyOfCardGained: [name=Продавец щитов cardId=BT_722 type=MINION] NORMAL 2
+D 16:50:32.6419852 NotifyOfCardGained: [name=Колдовской поток cardId=BT_002 type=SPELL] NORMAL 1
+D 16:50:32.6429848 NotifyOfCardGained: [name=Манускрипт мудрости cardId=BT_025 type=SPELL] NORMAL 1
+D 16:50:32.6439865 NotifyOfCardGained: [name=Пеплоуст-военачальник cardId=BT_423 type=MINION] NORMAL 1
+D 16:50:51.2152786 NotifyOfCardGained: [name=Манускрипт справедливости cardId=BT_011 type=SPELL] NORMAL 2
+D 16:50:51.2162787 NotifyOfCardGained: [name=Ткачиха мороза cardId=BT_714 type=MINION] NORMAL 2
+D 16:50:51.2162787 NotifyOfCardGained: [name=Источник силы cardId=BT_021 type=SPELL] NORMAL 1
+D 16:50:51.2172779 NotifyOfCardGained: [name=Ловчая Драконьей Пасти cardId=BT_726 type=MINION] NORMAL 2
+D 16:50:51.2172779 NotifyOfCardGained: [name=Верховная мать cardId=BT_301 type=MINION] NORMAL 1
+D 16:51:07.4129955 NotifyOfCardGained: [name=Верховный абиссал cardId=BT_734 type=MINION] NORMAL 1
+D 16:51:07.4129955 NotifyOfCardGained: [name=Рука Гул'дана cardId=BT_300 type=SPELL] NORMAL 1
+D 16:51:07.4139984 NotifyOfCardGained: [name=Поток cardId=BT_110 type=SPELL] NORMAL 2
+D 16:51:07.4139984 NotifyOfCardGained: [name=Продавец эфира cardId=BT_724 type=MINION] NORMAL 2
+D 16:51:07.4139984 NotifyOfCardGained: [name=Ржавый адепт cardId=BT_008 type=MINION] NORMAL 2
+D 16:51:40.6219695 NotifyOfCardGained: [name=Обновление cardId=BT_252 type=SPELL] NORMAL 1
+D 16:51:40.6229728 NotifyOfCardGained: [name=Щит и меч cardId=BT_233 type=SPELL] NORMAL 2
+D 16:51:40.6239745 NotifyOfCardGained: [name=Грязные приемы cardId=BT_709 type=SPELL] NORMAL 2
+D 16:51:40.6249721 NotifyOfCardGained: [name=Пленный антеон cardId=BT_934 type=MINION] NORMAL 1
+D 16:51:40.6259730 NotifyOfCardGained: [name=Жрица ярости cardId=BT_493 type=MINION] NORMAL 1
+D 16:52:02.4849980 NotifyOfCardGained: [name=Пленный ган'арг cardId=BT_121 type=MINION] NORMAL 1
+D 16:52:02.4859993 NotifyOfCardGained: [name=Ржавый сектант cardId=BT_160 type=MINION] NORMAL 1
+D 16:52:02.4859993 NotifyOfCardGained: [name=Почкование cardId=BT_129 type=SPELL] NORMAL 1
+D 16:52:02.4869993 NotifyOfCardGained: [name=Шиварра-мародер cardId=BT_732 type=MINION] NORMAL 2
+D 16:52:02.4869993 NotifyOfCardGained: [name=Странница Пустоты cardId=BT_321 type=MINION] GOLDEN 1
+D 16:52:29.6349639 NotifyOfCardGained: [name=Тотемное отражение cardId=BT_113 type=SPELL] NORMAL 2
+D 16:52:29.6349639 NotifyOfCardGained: [name=Колосс со свалки cardId=BT_155 type=MINION] NORMAL 2
+D 16:52:29.6419696 NotifyOfCardGained: [name=Колдовской поток cardId=BT_002 type=SPELL] NORMAL 2
+D 16:52:29.6429688 NotifyOfCardGained: [name=Ржавоциклистка cardId=BT_720 type=MINION] NORMAL 2
+D 16:52:29.6429688 NotifyOfCardGained: [name=Прославление cardId=BT_257 type=SPELL] NORMAL 1
+D 16:52:42.8196876 NotifyOfCardGained: [name=Самоуверенный орк cardId=BT_730 type=MINION] NORMAL 1
+D 16:52:42.8206946 NotifyOfCardGained: [name=Темный портал cardId=BT_302 type=SPELL] NORMAL 1
+D 16:52:42.8216914 NotifyOfCardGained: [name=Портал: Змеиное святилище cardId=BT_100 type=SPELL] NORMAL 1
+D 16:52:42.8226918 NotifyOfCardGained: [name=Нестабильная Скверна cardId=BT_199 type=SPELL] NORMAL 1
+D 16:52:42.8236923 NotifyOfCardGained: [name=Надзиратель Драконьей Пасти cardId=BT_256 type=MINION] NORMAL 1
+D 16:52:57.8896613 NotifyOfCardGained: [name=Продавщица ракет cardId=BT_723 type=MINION] NORMAL 1
+D 16:52:57.8896613 NotifyOfCardGained: [name=Выстрел хламом cardId=BT_205 type=SPELL] NORMAL 1
+D 16:52:57.8906618 NotifyOfCardGained: [name=Портал ветра Пустоты cardId=BT_003 type=SPELL] NORMAL 2
+D 16:52:57.8906618 NotifyOfCardGained: [name=Норный скорпид cardId=BT_717 type=MINION] NORMAL 1
+D 16:52:57.8916618 NotifyOfCardGained: [name=Ржавый сектант cardId=BT_160 type=MINION] NORMAL 2
+D 16:53:15.5793673 NotifyOfCardGained: [name=Сбежавший стражник жути cardId=BT_159 type=MINION] NORMAL 2
+D 16:53:15.5803682 NotifyOfCardGained: [name=Пеплоуст-медиум cardId=BT_727 type=MINION] NORMAL 1
+D 16:53:15.5803682 NotifyOfCardGained: [name=Портал: Змеиное святилище cardId=BT_100 type=SPELL] NORMAL 2
+D 16:53:15.5813699 NotifyOfCardGained: [name=Темный портал cardId=BT_302 type=SPELL] NORMAL 2
+D 16:53:15.5823728 NotifyOfCardGained: [name=Рой светлячков  cardId=BT_135 type=SPELL] NORMAL 1
+D 16:53:49.5898744 NotifyOfCardGained: [name=Пленный мерзотень cardId=BT_156 type=MINION] NORMAL 1
+D 16:53:49.5908769 NotifyOfCardGained: [name=Пленный наблюдатель cardId=BT_004 type=MINION] NORMAL 2
+D 16:53:49.5908769 NotifyOfCardGained: [name=Костеглод-буян cardId=BT_715 type=MINION] NORMAL 2
+D 16:53:49.5918749 NotifyOfCardGained: [name=Обжигающий жар cardId=BT_514 type=SPELL] NORMAL 2
+D 16:53:49.5928791 NotifyOfCardGained: [name=Пеплоуст-медиум cardId=BT_727 type=MINION] NORMAL 2
+D 16:54:04.4196863 NotifyOfCardGained: [name=Проклятый бродяга cardId=BT_703 type=MINION] NORMAL 1
+D 16:54:04.4226901 NotifyOfCardGained: [name=Длань А'дала cardId=BT_292 type=SPELL] NORMAL 1
+D 16:54:04.4226901 NotifyOfCardGained: [name=Рука Гул'дана cardId=BT_300 type=SPELL] NORMAL 2
+D 16:54:04.4236898 NotifyOfCardGained: [name=Пленный ган'арг cardId=BT_121 type=MINION] NORMAL 2
+D 16:54:04.4246894 NotifyOfCardGained: [name=Каргат Острорук cardId=BT_123 type=MINION] NORMAL 1
+D 16:55:10.6950981 NotifyOfCardGained: [name=Звездная провидица cardId=BT_014 type=MINION] NORMAL 1
+D 16:55:10.6961014 NotifyOfCardGained: [name=Костеглодка-налетчица cardId=BT_140 type=MINION] NORMAL 1
+D 16:55:10.6961014 NotifyOfCardGained: [name=Продавщица ракет cardId=BT_723 type=MINION] NORMAL 2
+D 16:55:10.6971006 NotifyOfCardGained: [name=Болотный луч cardId=BT_134 type=SPELL] NORMAL 2
+D 16:55:10.6981003 NotifyOfCardGained: [name=Заразный спорлинг cardId=BT_731 type=MINION] NORMAL 1
+D 16:55:30.3370971 NotifyOfCardGained: [name=Пленный сквернозуб cardId=BT_211 type=MINION] NORMAL 1
+D 16:55:30.3381025 NotifyOfCardGained: [name=Пленный мерзотень cardId=BT_156 type=MINION] NORMAL 2
+D 16:55:30.3400984 NotifyOfCardGained: [name=Самоуверенный орк cardId=BT_730 type=MINION] NORMAL 2
+D 16:55:30.3421014 NotifyOfCardGained: [name=Грибные богатства cardId=BT_128 type=SPELL] NORMAL 1
+D 16:55:30.3461016 NotifyOfCardGained: [name=Костеглодка-налетчица cardId=BT_140 type=MINION] NORMAL 2
+D 16:55:51.9764170 NotifyOfCardGained: [name=Нестабильная Скверна cardId=BT_199 type=SPELL] NORMAL 2
+D 16:55:51.9774166 NotifyOfCardGained: [name=Пленный гомункул cardId=BT_258 type=MINION] NORMAL 1
+D 16:55:51.9774166 NotifyOfCardGained: [name=Пеплоуст-убийца cardId=BT_702 type=MINION] GOLDEN 1
+D 16:55:51.9784170 NotifyOfCardGained: [name=Норный скорпид cardId=BT_717 type=MINION] NORMAL 2
+D 16:55:51.9794187 NotifyOfCardGained: [name=Звездная провидица cardId=BT_014 type=MINION] NORMAL 2
+D 16:56:21.9332409 NotifyOfCardGained: [name=Костеглод с передовой cardId=BT_716 type=MINION] NORMAL 1
+D 16:56:21.9332409 NotifyOfCardGained: [name=Бандитка с дубинкой cardId=BT_711 type=MINION] NORMAL 1
+D 16:56:21.9362423 NotifyOfCardGained: [name=Шпионка cardId=BT_701 type=MINION] NORMAL 1
+D 16:56:21.9422458 NotifyOfCardGained: [name=Обновление cardId=BT_252 type=SPELL] NORMAL 2
+D 16:56:21.9442480 NotifyOfCardGained: [name=Костеглод с передовой cardId=BT_716 type=MINION] NORMAL 2
+D 16:56:39.9981942 NotifyOfCardGained: [name=Проклятый бродяга cardId=BT_703 type=MINION] NORMAL 2
+D 16:56:39.9981942 NotifyOfCardGained: [name=Тактика стаи cardId=BT_203 type=SPELL] NORMAL 1
+D 16:56:39.9991972 NotifyOfCardGained: [name=Пеплоуст-военачальник cardId=BT_423 type=MINION] GOLDEN 1
+D 16:56:40.0001956 NotifyOfCardGained: [name=Прославление cardId=BT_257 type=SPELL] NORMAL 2
+D 16:56:40.0011956 NotifyOfCardGained: [name=Шпионка cardId=BT_701 type=MINION] NORMAL 2
+D 16:57:14.0587332 NotifyOfCardGained: [name=Призывательница Скверны cardId=BT_509 type=MINION] NORMAL 1
+D 16:57:14.0597336 NotifyOfCardGained: [name=Пленный сквернозуб cardId=BT_211 type=MINION] NORMAL 2
+D 16:57:14.0597336 NotifyOfCardGained: [name=Часовая Драконьей Пасти cardId=BT_262 type=MINION] NORMAL 1
+D 16:57:14.0597336 NotifyOfCardGained: [name=Яростный Плавник Скверны cardId=BT_496 type=MINION] NORMAL 1
+D 16:57:14.0907548 NotifyOfCardGained: [name=Призывательница Скверны cardId=BT_509 type=MINION] NORMAL 2
+D 16:57:14.0907548 Validating achieve: 60
+D 16:58:21.2337388 NotifyOfCardGained: [name=Алдор – искатель истины cardId=BT_026 type=MINION] NORMAL 1
+D 16:58:21.2337388 NotifyOfCardGained: [name=Верховная мать cardId=BT_301 type=MINION] NORMAL 2
+D 16:58:21.2347397 NotifyOfCardGained: [name=Верховный абиссал cardId=BT_734 type=MINION] NORMAL 2
+D 16:58:21.2357401 NotifyOfCardGained: [name=Зловепрь cardId=BT_202 type=MINION] NORMAL 2
+D 16:58:21.2357401 NotifyOfCardGained: [name=Болотная гидра cardId=BT_133 type=MINION] NORMAL 1
+D 16:58:43.6075452 NotifyOfCardGained: [name=Длань А'дала cardId=BT_292 type=SPELL] NORMAL 2
+D 16:58:43.6085473 NotifyOfCardGained: [name=Воевода Кривого Клыка cardId=BT_761 type=MINION] NORMAL 1
+D 16:58:43.6085473 NotifyOfCardGained: [name=Пленный гомункул cardId=BT_258 type=MINION] NORMAL 2
+D 16:58:43.6095461 NotifyOfCardGained: [name=Гонец Кровавой Печати cardId=BT_480 type=MINION] NORMAL 1
+D 16:58:43.6105465 NotifyOfCardGained: [name=Гонец Кровавой Печати cardId=BT_480 type=MINION] NORMAL 2
+D 16:59:28.1700339 NotifyOfCardGained: [name=Охотничья уловка cardId=BT_213 type=SPELL] NORMAL 3
+D 16:59:28.1710352 NotifyOfCardGained: [name=Пеплоуст-военачальник cardId=BT_423 type=MINION] NORMAL 2
+D 16:59:28.1880454 NotifyOfCardGained: [name=Грибные богатства cardId=BT_128 type=SPELL] NORMAL 2
+D 16:59:28.1900467 NotifyOfCardGained: [name=Пленный ган'арг cardId=BT_121 type=MINION] NORMAL 3
+D 16:59:28.1910488 NotifyOfCardGained: [name=Странница Пустоты cardId=BT_321 type=MINION] NORMAL 2
+D 16:59:40.1679747 NotifyOfCardGained: [name=Охотничья уловка cardId=BT_213 type=SPELL] NORMAL 4
+D 16:59:40.1679747 NotifyOfCardGained: [name=Боевые клинки Аззинота cardId=BT_430 type=WEAPON] NORMAL 1
+D 16:59:40.1689751 NotifyOfCardGained: [name=Пленный мерзотень cardId=BT_156 type=MINION] NORMAL 3
+D 16:59:40.1699793 NotifyOfCardGained: [name=Бандитка с дубинкой cardId=BT_711 type=MINION] NORMAL 2
+D 16:59:40.1709748 NotifyOfCardGained: [name=Зловепрь cardId=BT_202 type=MINION] NORMAL 3
+D 17:00:32.2654492 NotifyOfCardGained: [name=Пленный ган'арг cardId=BT_121 type=MINION] NORMAL 4
+D 17:00:32.2664534 NotifyOfCardGained: [name=Норный скорпид cardId=BT_717 type=MINION] NORMAL 3
+D 17:00:32.2674538 NotifyOfCardGained: [name=Верховный абиссал cardId=BT_734 type=MINION] NORMAL 3
+D 17:00:32.2684510 NotifyOfCardGained: [name=Часовая Драконьей Пасти cardId=BT_262 type=MINION] NORMAL 2
+D 17:00:32.2684510 NotifyOfCardGained: [name=Призывательница Скверны cardId=BT_509 type=MINION] NORMAL 3
+D 17:00:53.0672147 NotifyOfCardGained: [name=Портал ветра Пустоты cardId=BT_003 type=SPELL] NORMAL 3
+D 17:00:53.0672147 NotifyOfCardGained: [name=Рука Гул'дана cardId=BT_300 type=SPELL] NORMAL 3
+D 17:00:53.0682180 NotifyOfCardGained: [name=Гонец Кровавой Печати cardId=BT_480 type=MINION] NORMAL 3
+D 17:00:53.0692172 NotifyOfCardGained: [name=Громила Гуртогга cardId=BT_138 type=MINION] NORMAL 2
+D 17:00:53.0702169 NotifyOfCardGained: [name=Ржавоциклистка cardId=BT_720 type=MINION] NORMAL 3
+D 17:01:13.5813518 NotifyOfCardGained: [name=Костеглодка-налетчица cardId=BT_140 type=MINION] NORMAL 3
+D 17:01:13.5813518 NotifyOfCardGained: [name=Пленный сквернозуб cardId=BT_211 type=MINION] NORMAL 3
+D 17:01:13.5823506 NotifyOfCardGained: [name=Длань А'дала cardId=BT_292 type=SPELL] NORMAL 3
+D 17:01:13.5833527 NotifyOfCardGained: [name=Почкование cardId=BT_129 type=SPELL] NORMAL 2
+D 17:01:13.5833527 NotifyOfCardGained: [name=Ржавый адепт cardId=BT_008 type=MINION] NORMAL 3
+D 17:01:24.6796934 NotifyOfCardGained: [name=Портал: Змеиное святилище cardId=BT_100 type=SPELL] NORMAL 3
+D 17:01:24.6806935 NotifyOfCardGained: [name=Длань А'дала cardId=BT_292 type=SPELL] NORMAL 4
+D 17:01:24.6816960 NotifyOfCardGained: [name=Воевода Кривого Клыка cardId=BT_761 type=MINION] NORMAL 2
+D 17:01:24.6816960 NotifyOfCardGained: [name=Пленный сквернозуб cardId=BT_211 type=MINION] NORMAL 4
+D 17:01:24.6826981 NotifyOfCardGained: [name=Звездная провидица cardId=BT_014 type=MINION] NORMAL 3
+D 17:01:36.8547557 NotifyOfCardGained: [name=Странница Пустоты cardId=BT_321 type=MINION] NORMAL 3
+D 17:01:36.8557513 NotifyOfCardGained: [name=Гром в Награнде cardId=BT_163 type=SPELL] NORMAL 1
+D 17:01:36.8567542 NotifyOfCardGained: [name=Продавец щитов cardId=BT_722 type=MINION] NORMAL 3
+D 17:01:36.8577518 NotifyOfCardGained: [name=Пленный гомункул cardId=BT_258 type=MINION] NORMAL 3
+D 17:01:36.8577518 NotifyOfCardGained: [name=Крабстер-трещот cardId=BT_106 type=MINION] NORMAL 1
+D 17:01:59.6658484 NotifyOfCardGained: [name=Норный скорпид cardId=BT_717 type=MINION] NORMAL 4
+D 17:01:59.6658484 NotifyOfCardGained: [name=Череп Гул'дана cardId=BT_601 type=SPELL] NORMAL 1
+D 17:01:59.6668468 NotifyOfCardGained: [name=Рука Гул'дана cardId=BT_300 type=SPELL] NORMAL 4
+D 17:01:59.6668468 NotifyOfCardGained: [name=Ржавый адепт cardId=BT_008 type=MINION] NORMAL 4
+D 17:01:59.6678464 NotifyOfCardGained: [name=Навигатор Плавников Скверны cardId=BT_010 type=MINION] NORMAL 3
+D 17:01:59.6898614 Validating achieve: 60
+D 17:02:10.7731949 NotifyOfCardGained: [name=Ржавоциклистка cardId=BT_720 type=MINION] NORMAL 4
+D 17:02:10.7761991 NotifyOfCardGained: [name=Портал ветра Пустоты cardId=BT_003 type=SPELL] NORMAL 4
+D 17:02:10.7781984 NotifyOfCardGained: [name=Продавщица ракет cardId=BT_723 type=MINION] NORMAL 3
+D 17:02:10.7791993 NotifyOfCardGained: [name=Колдовской поток cardId=BT_002 type=SPELL] NORMAL 3
+D 17:02:10.7791993 NotifyOfCardGained: [name=Архигриб Мссхи'фн cardId=BT_136 type=MINION] NORMAL 1
+D 17:03:13.4096448 NotifyOfCardGained: [name=Надзиратель Драконьей Пасти cardId=BT_256 type=MINION] NORMAL 2
+D 17:03:13.4106464 NotifyOfCardGained: [name=Колдовской поток cardId=BT_002 type=SPELL] NORMAL 4
+D 17:03:13.4116465 NotifyOfCardGained: [name=Мок'наталская львица cardId=BT_212 type=MINION] NORMAL 2
+D 17:03:13.4116465 NotifyOfCardGained: [name=Пленный гомункул cardId=BT_258 type=MINION] NORMAL 4
+D 17:03:13.4126482 NotifyOfCardGained: [name=Сбежавший стражник жути cardId=BT_159 type=MINION] NORMAL 3
+D 17:03:32.8745272 NotifyOfCardGained: [name=Щит и меч cardId=BT_233 type=SPELL] NORMAL 3
+D 17:03:32.8745272 NotifyOfCardGained: [name=Верховный абиссал cardId=BT_734 type=MINION] NORMAL 4
+D 17:03:32.8765338 NotifyOfCardGained: [name=Железная кора cardId=BT_132 type=SPELL] NORMAL 2
+D 17:03:32.8765338 NotifyOfCardGained: [name=Раскол души cardId=BT_253 type=SPELL] GOLDEN 1
+D 17:03:32.8775265 NotifyOfCardGained: [name=Тотемное отражение cardId=BT_113 type=SPELL] NORMAL 3
+D 17:03:53.5552114 NotifyOfCardGained: [name=Рука Гул'дана cardId=BT_300 type=SPELL] NORMAL 5
+D 17:03:53.5552114 NotifyOfCardGained: [name=Крабстер-трещот cardId=BT_106 type=MINION] NORMAL 2
+D 17:03:53.5562115 NotifyOfCardGained: [name=Зловепрь cardId=BT_202 type=MINION] GOLDEN 1
+D 17:03:53.5562115 NotifyOfCardGained: [name=Алдор-служительница cardId=BT_020 type=MINION] NORMAL 3
+D 17:03:53.5572128 NotifyOfCardGained: [name=Нестабильная Скверна cardId=BT_199 type=SPELL] NORMAL 3
+D 17:04:30.6258026 NotifyOfCardGained: [name=Продавец щитов cardId=BT_722 type=MINION] GOLDEN 1
+D 17:04:30.6268059 NotifyOfCardGained: [name=Портал: Змеиное святилище cardId=BT_100 type=SPELL] NORMAL 4
+D 17:04:30.6278022 NotifyOfCardGained: [name=Пленный гомункул cardId=BT_258 type=MINION] NORMAL 5
+D 17:04:30.6278022 NotifyOfCardGained: [name=Волдырный гнилостень cardId=BT_721 type=MINION] NORMAL 1
+D 17:04:30.6288048 NotifyOfCardGained: [name=Щит и меч cardId=BT_233 type=SPELL] NORMAL 4
+D 17:04:43.4432867 NotifyOfCardGained: [name=Череп Гул'дана cardId=BT_601 type=SPELL] NORMAL 2
+D 17:04:43.4442843 NotifyOfCardGained: [name=Пеплоуст-медиум cardId=BT_727 type=MINION] NORMAL 3
+D 17:04:43.4452868 NotifyOfCardGained: [name=Ржавый сектант cardId=BT_160 type=MINION] NORMAL 3
+D 17:04:43.4452868 NotifyOfCardGained: [name=Продавец эфира cardId=BT_724 type=MINION] NORMAL 3
+D 17:04:43.4462860 NotifyOfCardGained: [name=Рой светлячков  cardId=BT_135 type=SPELL] NORMAL 2
+D 17:04:56.6470203 NotifyOfCardGained: [name=Обновление cardId=BT_252 type=SPELL] NORMAL 3
+D 17:04:56.6480286 NotifyOfCardGained: [name=Глубокая заморозка cardId=BT_072 type=SPELL] NORMAL 1
+D 17:04:56.6490220 NotifyOfCardGained: [name=Ловчая Драконьей Пасти cardId=BT_726 type=MINION] NORMAL 3
+D 17:04:56.6490220 NotifyOfCardGained: [name=Тактика стаи cardId=BT_203 type=SPELL] NORMAL 2
+D 17:04:56.6510234 NotifyOfCardGained: [name=Пленный сквернозуб cardId=BT_211 type=MINION] NORMAL 5
+D 17:05:07.8474331 NotifyOfCardGained: [name=Пеплоуст-медиум cardId=BT_727 type=MINION] NORMAL 4
+D 17:05:07.8484373 NotifyOfCardGained: [name=Пленный сатир cardId=BT_127 type=MINION] NORMAL 3
+D 17:05:07.8494332 NotifyOfCardGained: [name=Жрица ярости cardId=BT_493 type=MINION] NORMAL 2
+D 17:05:07.8494332 NotifyOfCardGained: [name=Пеплоуст-военачальник cardId=BT_423 type=MINION] NORMAL 3
+D 17:05:07.8504349 NotifyOfCardGained: [name=Странница Пустоты cardId=BT_321 type=MINION] NORMAL 4
+D 17:05:17.1966242 NotifyOfCardGained: [name=Буйство природы cardId=BT_130 type=SPELL] NORMAL 3
+D 17:05:17.1976193 NotifyOfCardGained: [name=Шпионка cardId=BT_701 type=MINION] NORMAL 3
+D 17:05:17.1986194 NotifyOfCardGained: [name=Манускрипт справедливости cardId=BT_011 type=SPELL] NORMAL 3
+D 17:05:17.1996223 NotifyOfCardGained: [name=Яростный Плавник Скверны cardId=BT_496 type=MINION] NORMAL 2
+D 17:05:17.2116302 NotifyOfCardGained: [name=Внезапный удар cardId=BT_707 type=SPELL] NORMAL 2
+D 17:05:17.2126290 Validating achieve: 60
+D 17:05:28.8953619 NotifyOfCardGained: [name=Источник силы cardId=BT_021 type=SPELL] NORMAL 2
+D 17:05:28.8953619 NotifyOfCardGained: [name=Шпионка cardId=BT_701 type=MINION] NORMAL 4
+D 17:05:28.8963623 NotifyOfCardGained: [name=Пленный сквернозуб cardId=BT_211 type=MINION] NORMAL 6
+D 17:05:28.8973636 NotifyOfCardGained: [name=Рука Гул'дана cardId=BT_300 type=SPELL] NORMAL 6
+D 17:05:28.8973636 NotifyOfCardGained: [name=Пленный сатир cardId=BT_127 type=MINION] NORMAL 4
+D 17:05:40.3019099 NotifyOfCardGained: [name=Щит и меч cardId=BT_233 type=SPELL] NORMAL 5
+D 17:05:40.3029116 NotifyOfCardGained: [name=Манускрипт мудрости cardId=BT_025 type=SPELL] NORMAL 2
+D 17:05:40.3029116 NotifyOfCardGained: [name=Призрачное зрение cardId=BT_491 type=SPELL] NORMAL 3
+D 17:05:40.3039100 NotifyOfCardGained: [name=Призрачное зрение cardId=BT_491 type=SPELL] NORMAL 4
+D 17:05:40.3049121 NotifyOfCardGained: [name=Навигатор Плавников Скверны cardId=BT_010 type=MINION] NORMAL 4
+D 17:05:40.3179213 Validating achieve: 60
+D 17:05:58.7961483 NotifyOfCardGained: [name=Портал: Змеиное святилище cardId=BT_100 type=SPELL] NORMAL 5
+D 17:05:58.7971553 NotifyOfCardGained: [name=Костеглод-буян cardId=BT_715 type=MINION] NORMAL 3
+D 17:05:58.7981513 NotifyOfCardGained: [name=Контрабандист апексита cardId=BT_022 type=MINION] NORMAL 1
+D 17:05:58.7991497 NotifyOfCardGained: [name=Акама cardId=BT_713 type=MINION] NORMAL 1
+D 17:05:58.7991497 NotifyOfCardGained: [name=Продавщица ракет cardId=BT_723 type=MINION] NORMAL 4
+D 17:07:01.0734157 NotifyOfCardGained: [name=Заразный спорлинг cardId=BT_731 type=MINION] NORMAL 2
+D 17:07:01.0744153 NotifyOfCardGained: [name=Норный скорпид cardId=BT_717 type=MINION] NORMAL 5
+D 17:07:01.0754154 NotifyOfCardGained: [name=Длань А'дала cardId=BT_292 type=SPELL] NORMAL 5
+D 17:07:01.0754154 NotifyOfCardGained: [name=Грязные приемы cardId=BT_709 type=SPELL] NORMAL 3
+D 17:07:01.0754154 NotifyOfCardGained: [name=Рука Гул'дана cardId=BT_300 type=SPELL] NORMAL 7
+D 17:07:15.5189741 NotifyOfCardGained: [name=Ткачиха мороза cardId=BT_714 type=MINION] NORMAL 3
+D 17:07:15.5199746 NotifyOfCardGained: [name=Портал ветра Пустоты cardId=BT_003 type=SPELL] NORMAL 5
+D 17:07:15.5209750 NotifyOfCardGained: [name=Пленный хламобес cardId=BT_305 type=MINION] NORMAL 2
+D 17:07:15.5219808 NotifyOfCardGained: [name=Верховный абиссал cardId=BT_734 type=MINION] NORMAL 5
+D 17:07:15.5229780 NotifyOfCardGained: [name=Шпионка cardId=BT_701 type=MINION] NORMAL 5
+D 17:07:28.1613397 NotifyOfCardGained: [name=Продавщица ракет cardId=BT_723 type=MINION] NORMAL 5
+D 17:07:28.1623426 NotifyOfCardGained: [name=Болотный луч cardId=BT_134 type=SPELL] NORMAL 3
+D 17:07:28.1633415 NotifyOfCardGained: [name=Ткачиха мороза cardId=BT_714 type=MINION] NORMAL 4
+D 17:07:28.1643419 NotifyOfCardGained: [name=Охотничья уловка cardId=BT_213 type=SPELL] NORMAL 5
+D 17:07:28.1643419 NotifyOfCardGained: [name=Раскол души cardId=BT_253 type=SPELL] NORMAL 1
+D 17:07:48.5888657 NotifyOfCardGained: [name=Ржавый адепт cardId=BT_008 type=MINION] NORMAL 5
+D 17:07:48.5898604 NotifyOfCardGained: [name=Щит и меч cardId=BT_233 type=SPELL] NORMAL 6
+D 17:07:48.5898604 NotifyOfCardGained: [name=Волдырный гнилостень cardId=BT_721 type=MINION] NORMAL 2
+D 17:07:48.5908592 NotifyOfCardGained: [name=Совет Теней cardId=BT_306 type=SPELL] GOLDEN 1
+D 17:07:48.5908592 NotifyOfCardGained: [name=Продавец щитов cardId=BT_722 type=MINION] NORMAL 4
+D 17:08:22.4802847 NotifyOfCardGained: [name=Грязные приемы cardId=BT_709 type=SPELL] NORMAL 4
+D 17:08:22.4812856 NotifyOfCardGained: [name=Тотемное отражение cardId=BT_113 type=SPELL] NORMAL 4
+D 17:08:22.4822865 NotifyOfCardGained: [name=Пленный гомункул cardId=BT_258 type=MINION] GOLDEN 1
+D 17:08:22.4822865 NotifyOfCardGained: [name=Натрезим в доспехах cardId=BT_304 type=MINION] NORMAL 1
+D 17:08:22.4832869 NotifyOfCardGained: [name=Пленный мерзотень cardId=BT_156 type=MINION] NORMAL 4
+D 17:08:39.6856727 NotifyOfCardGained: [name=Голем из хлама cardId=BT_249 type=MINION] NORMAL 1
+D 17:08:39.6876712 NotifyOfCardGained: [name=Тотемное отражение cardId=BT_113 type=SPELL] NORMAL 5
+D 17:08:39.6886721 NotifyOfCardGained: [name=Призрачное зрение cardId=BT_491 type=SPELL] NORMAL 5
+D 17:08:39.6886721 NotifyOfCardGained: [name=Гонец Кровавой Печати cardId=BT_480 type=MINION] NORMAL 4
+D 17:08:39.6896729 NotifyOfCardGained: [name=Странница Пустоты cardId=BT_321 type=MINION] NORMAL 5
+D 17:08:54.9017419 NotifyOfCardGained: [name=Ржавый адепт cardId=BT_008 type=MINION] NORMAL 6
+D 17:08:54.9027415 NotifyOfCardGained: [name=Длань А'дала cardId=BT_292 type=SPELL] NORMAL 6
+D 17:08:54.9037432 NotifyOfCardGained: [name=Болотный луч cardId=BT_134 type=SPELL] NORMAL 4
+D 17:08:54.9057425 NotifyOfCardGained: [name=Колдовской поток cardId=BT_002 type=SPELL] NORMAL 5
+D 17:08:54.9077442 NotifyOfCardGained: [name=Пленные лучежабры cardId=BT_009 type=MINION] NORMAL 1
+D 17:08:54.9197522 Validating achieve: 60
+D 17:09:11.6047930 NotifyOfCardGained: [name=Болотный луч cardId=BT_134 type=SPELL] NORMAL 5
+D 17:09:11.6097969 NotifyOfCardGained: [name=Пленные лучежабры cardId=BT_009 type=MINION] NORMAL 2
+D 17:09:11.6238058 NotifyOfCardGained: [name=Пленный сквернозуб cardId=BT_211 type=MINION] NORMAL 7
+D 17:09:11.6248087 NotifyOfCardGained: [name=Продавщица ракет cardId=BT_723 type=MINION] NORMAL 6
+D 17:09:11.6258063 NotifyOfCardGained: [name=Пленный мерзотень cardId=BT_156 type=MINION] NORMAL 5
+D 17:09:11.6258063 Validating achieve: 60
+D 17:09:24.5073328 NotifyOfCardGained: [name=Костеглод-буян cardId=BT_715 type=MINION] NORMAL 4
+D 17:09:24.5093316 NotifyOfCardGained: [name=Натрезим в доспехах cardId=BT_304 type=MINION] NORMAL 2
+D 17:09:24.5093316 NotifyOfCardGained: [name=Навигатор Плавников Скверны cardId=BT_010 type=MINION] NORMAL 5
+D 17:09:24.5243455 NotifyOfCardGained: [name=Дубликатор cardId=BT_190 type=MINION] NORMAL 1
+D 17:09:24.5253435 NotifyOfCardGained: [name=Голем из хлама cardId=BT_249 type=MINION] GOLDEN 1
+D 17:09:24.5253435 Validating achieve: 60
+D 17:10:01.4093065 NotifyOfCardGained: [name=Продавщица ракет cardId=BT_723 type=MINION] NORMAL 7
+D 17:10:01.4093065 NotifyOfCardGained: [name=Подозрительный скиталец cardId=BT_728 type=MINION] NORMAL 3
+D 17:10:01.4103036 NotifyOfCardGained: [name=Продавщица ракет cardId=BT_723 type=MINION] NORMAL 8
+D 17:10:01.4103036 NotifyOfCardGained: [name=Живительные споры cardId=BT_101 type=SPELL] NORMAL 1
+D 17:10:01.4123033 NotifyOfCardGained: [name=Выстрел хламом cardId=BT_205 type=SPELL] NORMAL 2
+D 17:10:16.8455172 NotifyOfCardGained: [name=Продавец щитов cardId=BT_722 type=MINION] NORMAL 5
+D 17:10:16.8465185 NotifyOfCardGained: [name=Ткачиха мороза cardId=BT_714 type=MINION] NORMAL 5
+D 17:10:16.8465185 NotifyOfCardGained: [name=Пленный антеон cardId=BT_934 type=MINION] NORMAL 2
+D 17:10:16.8475202 NotifyOfCardGained: [name=Сбежавший стражник жути cardId=BT_159 type=MINION] NORMAL 4
+D 17:10:16.8475202 NotifyOfCardGained: [name=Портал: Змеиное святилище cardId=BT_100 type=SPELL] GOLDEN 1
+D 17:10:34.0298890 NotifyOfCardGained: [name=Пленный гомункул cardId=BT_258 type=MINION] NORMAL 6
+D 17:10:34.0308924 NotifyOfCardGained: [name=Живительные споры cardId=BT_101 type=SPELL] NORMAL 2
+D 17:10:34.0318916 NotifyOfCardGained: [name=Рука Гул'дана cardId=BT_300 type=SPELL] NORMAL 8
+D 17:10:34.0328921 NotifyOfCardGained: [name=Ржавоциклистка cardId=BT_720 type=MINION] NORMAL 5
+D 17:10:34.0328921 NotifyOfCardGained: [name=Подозрительный скиталец cardId=BT_728 type=MINION] NORMAL 4
+D 17:10:46.9774568 NotifyOfCardGained: [name=Алдор – искатель истины cardId=BT_026 type=MINION] NORMAL 2
+D 17:10:46.9784605 NotifyOfCardGained: [name=Верховная мать cardId=BT_301 type=MINION] NORMAL 3
+D 17:10:46.9804602 NotifyOfCardGained: [name=Контрабандист апексита cardId=BT_022 type=MINION] NORMAL 2
+D 17:10:46.9814595 NotifyOfCardGained: [name=Шпионка cardId=BT_701 type=MINION] NORMAL 6
+D 17:10:46.9814595 NotifyOfCardGained: [name=Портал ветра Пустоты cardId=BT_003 type=SPELL] NORMAL 6
+D 17:11:03.0500936 NotifyOfCardGained: [name=Пленный сквернозуб cardId=BT_211 type=MINION] NORMAL 8
+D 17:11:03.0510961 NotifyOfCardGained: [name=Глубокая заморозка cardId=BT_072 type=SPELL] NORMAL 2
+D 17:11:03.0510961 NotifyOfCardGained: [name=Портал: Змеиное святилище cardId=BT_100 type=SPELL] NORMAL 6
+D 17:11:03.0520945 NotifyOfCardGained: [name=Грязные приемы cardId=BT_709 type=SPELL] NORMAL 5
+D 17:11:03.0530958 NotifyOfCardGained: [name=Корсарский тайник cardId=BT_124 type=SPELL] NORMAL 1
+D 17:11:19.3358704 NotifyOfCardGained: [name=Обновление cardId=BT_252 type=SPELL] NORMAL 4
+D 17:11:19.3388722 NotifyOfCardGained: [name=Корсарский тайник cardId=BT_124 type=SPELL] NORMAL 2
+D 17:11:19.3398730 NotifyOfCardGained: [name=Призывательница Скверны cardId=BT_509 type=MINION] NORMAL 4
+D 17:11:19.3408735 NotifyOfCardGained: [name=Шпионка cardId=BT_701 type=MINION] NORMAL 7
+D 17:11:19.3418735 NotifyOfCardGained: [name=Подозрительный скиталец cardId=BT_728 type=MINION] NORMAL 5
+D 17:11:29.9078678 NotifyOfCardGained: [name=Проклятый бродяга cardId=BT_703 type=MINION] NORMAL 3
+D 17:11:29.9088666 NotifyOfCardGained: [name=Ржавый адепт cardId=BT_008 type=MINION] NORMAL 7
+D 17:11:29.9098683 NotifyOfCardGained: [name=Портал: Змеиное святилище cardId=BT_100 type=SPELL] NORMAL 7
+D 17:11:29.9108733 NotifyOfCardGained: [name=Нестабильная Скверна cardId=BT_199 type=SPELL] NORMAL 4
+D 17:11:29.9118704 NotifyOfCardGained: [name=Пеплоуст-убийца cardId=BT_702 type=MINION] NORMAL 2
+D 17:11:47.0161877 NotifyOfCardGained: [name=Портал: Змеиное святилище cardId=BT_100 type=SPELL] NORMAL 8
+D 17:11:47.0171881 NotifyOfCardGained: [name=Голем из хлама cardId=BT_249 type=MINION] NORMAL 2
+D 17:11:47.0181984 NotifyOfCardGained: [name=Призывательница Скверны cardId=BT_509 type=MINION] NORMAL 5
+D 17:11:47.0191899 NotifyOfCardGained: [name=Манускрипт справедливости cardId=BT_011 type=SPELL] NORMAL 4
+D 17:11:47.0191899 NotifyOfCardGained: [name=Тотемное отражение cardId=BT_113 type=SPELL] NORMAL 6
+D 17:11:58.7249361 NotifyOfCardGained: [name=Звездная провидица cardId=BT_014 type=MINION] NORMAL 4
+D 17:11:58.7259377 NotifyOfCardGained: [name=Исиэль Песнь Ветра cardId=BT_131 type=MINION] NORMAL 1
+D 17:11:58.7259377 NotifyOfCardGained: [name=Длань А'дала cardId=BT_292 type=SPELL] NORMAL 7
+D 17:11:58.7269366 NotifyOfCardGained: [name=Полководец из преисподней cardId=BT_486 type=MINION] NORMAL 1
+D 17:11:58.7269366 NotifyOfCardGained: [name=Раскол души cardId=BT_253 type=SPELL] NORMAL 2
+D 17:12:53.1129302 NotifyOfCardGained: [name=Шпионка cardId=BT_701 type=MINION] NORMAL 8
+D 17:12:53.1139286 NotifyOfCardGained: [name=Тактика стаи cardId=BT_203 type=SPELL] NORMAL 3
+D 17:12:53.1139286 NotifyOfCardGained: [name=Продавец щитов cardId=BT_722 type=MINION] NORMAL 6
+D 17:12:53.1149271 NotifyOfCardGained: [name=Грибные богатства cardId=BT_128 type=SPELL] NORMAL 3
+D 17:12:53.1159287 NotifyOfCardGained: [name=Странница Пустоты cardId=BT_321 type=MINION] NORMAL 6
+D 17:13:33.0153871 OnAchieveNotification PlayerID=58682497 ID=55 Complete=False New=False Remove=False Amount=1
+D 17:13:33.0153871 OnAchievementNotification: Achievement=[Achievement: ID=55 Type=HIDDEN Name='Время мастерить' MaxProgress=1 Progress=2074 AckProgress=1 IsActive=False DateGiven=131047102580000000 DateCompleted=131047102580000000 Description='Распылите карту.' Trigger=DISENCHANT CanAck=True]
+D 17:13:33.1704875 PopupDisplayManager: adding 0 rewards to load total=0
